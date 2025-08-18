@@ -17,3 +17,6 @@ A simple and responsive Weather App built with **HTML**, **CSS**, and **JavaScri
 - API: OpenWeatherMap API
 - Tools: Git, GitHub, VS Code, Live Server
 
+## 🚀 Live Demo
+🔗  I
+
